@@ -1,5 +1,7 @@
 # Jigsaw Rate Severity of Toxic Comments
 
+## Read my Writeup [Here](https://medium.com/@maze508/top-1-7-jigsaw-rate-severity-of-toxic-comments-c43316f75a64)
+
 ## Overview
 
 <hr/>
